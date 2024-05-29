@@ -1,4 +1,4 @@
-patient,birthdate,birthdate,first,last,marital,race,ethnicity,gender,birthplace
+patient,birthdate,deathdate,first,last,marital,race,ethnicity,gender,birthplace
 4ee2c837 e60f 4c54 9fdf 8686bc70760b,08 04 1929,08 04 1929,Rosamaria,Pfannerstill,,black,dominican,F,Pittsfield MA US
 efaf74f9 3de3 45dd a5d5 26d08e8a3190,15 12 2016,15 12 2016,Loan,Bashirian,,white,american,F,Medford MA US
 aaa4c718 2f48 4c13 9ad0 d287cf280824,28 11 1943,28 11 1943,Angelo,Buckridge,S,black,african,M,Framingham MA US
